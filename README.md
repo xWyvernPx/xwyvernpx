@@ -28,9 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xwyvernpx&theme=dark" alt="xwyvernpx" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xwyvernpx&label=Profile%20views&color=df6868&style=flat" alt="xwyvernpx" /> </p>
-
-<style> 
-#aaa{ 
-    color : red;
-}
-</style>
