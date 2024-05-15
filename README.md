@@ -5,7 +5,7 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
 - 📚 I'm a sophomore studying Software Engineering at FPT University
-- 🧠 Currently learning & investigating about Web Developer
+- 🧠 Currently learning & investigating about Software Engineering, especially distributed scalable systems
 - 👨‍💻 All of my projects are available at [Le Cogito](https://lecogito.com)
 - 📫 Reach me at phonglethanh2@gmail.com
 
