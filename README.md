@@ -6,7 +6,7 @@
 
 - 📚 I'm a sophomore studying Software Engineering at FPT University
 - 🧠 Currently learning & investigating about Web Developer
-- 👨‍💻 All of my projects are available at [wyvernp.tech](https://wyvernp.tech)
+- 👨‍💻 All of my projects are available at [Le Cogito](https://lecogito.com)
 - 📫 Reach me at phonglethanh2@gmail.com
 
 
